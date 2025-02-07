@@ -1,0 +1,29 @@
+[
+    {
+      "name": "Pet Adoption Site",
+      "image": "https://i.ibb.co.com/Xk7wPkKm/Pet.png",
+      "stack": ["React", "Tailwind CSS", "Firebase"],
+      "description": "A platform connecting pet adopters with shelters.",
+      "liveLink": "#",
+      "github": "https://github.com/ZubairAlMamun2/Pet-Adoption-Site",
+      "challenges": "Managing real-time updates and authentication."
+    },
+    {
+      "name": "Blood Donation App",
+      "image": "https://i.ibb.co.com/zT0yDBs3/blood.png",
+      "stack": ["Next.js", "MongoDB", "Bootstrap"],
+      "description": "An app to find and connect blood donors.",
+      "liveLink": "#",
+      "github": "https://github.com/ZubairAlMamun2/Blood-Donation-App",
+      "challenges": "Ensuring data privacy and user verification."
+    },
+    {
+      "name": "Funding Collection App",
+      "image": "https://i.ibb.co.com/Rk73GvP1/croudcube.png",
+      "stack": ["React", "Node.js", "Express", "MongoDB"],
+      "description": "A crowdfunding platform for social causes.",
+      "liveLink": "#",
+      "github": "https://github.com/ZubairAlMamun2/Funding-Collection-App",
+      "challenges": "Implementing secure payment transactions."
+    }
+  ]
