@@ -53,8 +53,11 @@ export default function Details() {
         <p className="text-gray-400 mb-4">{project.futurePlans}</p>
         <div className="flex gap-4">
           <a href={project.liveLink} target="blank"  className="bg-purple-500 text-white px-4 py-2 rounded-lg hover:bg-purple-600 transition-all">Live Project</a>
-          <a href={project.github} target="blank" className="bg-gray-700 text-white px-4 py-2 rounded-lg hover:bg-gray-800 transition-all">GitHub Repo</a>
-          <NavLink to="/" className="bg-gray-700 text-white px-4 py-2 rounded-lg hover:bg-gray-800 transition-all">Go Back</NavLink>
+          <a href={project.github} target="blank" className="bg-purple-500 text-white px-4 py-2 rounded-lg hover:bg-purple-600 transition-all">GitHub Repo</a>
+          <NavLink to="/" className="bg-gray-700 hidden md:flex text-white px-4 py-2 rounded-lg hover:bg-gray-800 transition-all">Go Back</NavLink>
+        </div>
+        <div className=" md:hidden mt-6">
+        <NavLink to="/" className="bg-gray-700 text-white px-4 py-2  rounded-lg hover:bg-gray-800 transition-all">Go Back</NavLink>
         </div>
       </div>
      

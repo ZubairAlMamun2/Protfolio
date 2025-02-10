@@ -21,7 +21,7 @@ const AboutMe=()=> {
           transition={{ duration: 1 }}
           className="text-lg text-gray-300 leading-relaxed"
         >
-          Hi, I'm Zubair Al Mamun, a passionate web developer primarily use MERN stack technologi for building websites. I love crafting user-friendly, responsive, and high-performance web applications. I am also a fast learner and passionate about implementing and launching new projects and ideas.
+          Hi, I'm Zubair Al Mamun, a passionate web developer primarily use MERN stack technology for building websites. I love crafting user-friendly, responsive, and high-performance web applications. I am also a fast learner and passionate about implementing and launching new projects and ideas.
           <br /><br />
           I started programming since 2022 but not proparly. In last year I joined with programming hero as a student and learning a lot of things
           <br /><br />

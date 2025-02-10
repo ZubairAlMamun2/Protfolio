@@ -38,7 +38,7 @@ const handleDownload = () => {
           transition={{ duration: 1 }}
           className="text-lg text-gray-400 mb-6 max-w-xl"
         >
-           A passionate web developer primarily use MERN stack technologi for building websites. 
+           A passionate web developer primarily use MERN stack technology for building websites. 
         </motion.p>
         <motion.a
         
@@ -66,7 +66,7 @@ const handleDownload = () => {
 
       {/* LinkedIn */}
       <a
-        href="https://linkedin.com/"
+        href="https://www.linkedin.com/in/zubair-al-mamun-72732034b/"
         target="_blank"
         className="text-white bg-blue-600 p-3 rounded-full hover:bg-blue-500 transition duration-300"
       >
