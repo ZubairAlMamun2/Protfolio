@@ -8,7 +8,7 @@ const isInView = useInView(ref, { triggerOnce: true });
 
 const handleDownload = () => {
     // Replace with the actual path to your resume file
-    const fileId = "1-GxOMw3uRQPORIQV3ie2yLoJv49-SVs8";
+    const fileId = "1XKv-1WI9IB1vXo45RIj_GCZfdYkfY6AG";
     const directDownloadUrl = `https://drive.google.com/uc?export=download&id=${fileId}`;
 
     // Create a hidden anchor element for downloading
@@ -90,7 +90,7 @@ const handleDownload = () => {
           animate={isInView ? { opacity: 1, scale: 1 } : {}}
           transition={{ duration: 0.8 }}
           src="https://lh3.googleusercontent.com/a/ACg8ocKJ5nGhvKSVvqIImBJhItMNNvygKrTDXcUeMJhR-5KK8RxQDVEJ=s288-c-no"
-          alt="Gerold"
+          alt="Image"
           className="w-72 h-72 md:w-80 md:h-80 object-cover rounded-2xl border-4 border-purple-500 shadow-lg"
         />
       </div>
